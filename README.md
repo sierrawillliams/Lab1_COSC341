@@ -1,5 +1,6 @@
 # Lab1_COSC341
 Lab 1: Android Basics (20 marks) 
+
 The purpose of this lab is to help you get started with mobile application development with 
 Android.  
 Configuration note: 
