@@ -87,7 +87,7 @@
         android:id="@+id/imageView1_dsc"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="425dp"
+        android:layout_marginTop="440dp"
         android:layout_marginStart="185dp"
         android:text="@string/_1_of_4" />
     <TextView

@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         desc4 = "4 of 4";
 
         pic1 = findViewById(R.id.imageView1);
-
         pic2 = findViewById(R.id.imageView2);
         pic3 = findViewById(R.id.imageView3);
         pic4 = findViewById(R.id.imageView4);
