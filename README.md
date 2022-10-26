@@ -43,26 +43,3 @@ Functionalities:
 
 [5 marks] The app shows correct images once the buttons are pressed 
 
-Question 2 (10 marks): Create an Android application that allows users to show the total 
-price of an order based on some selected values. The app should contain the followings: 
-Four text views to show four fruit names  
-• Four text views beside the fruit name to show the fruit price per lb  
-• Four spinners to show order amount in pounds (sample values: 0, 1, 2, 5, 10, 20) 
-• A button with the text “Confirm” 
-• A text view to show the total price 
-Users first select fruit amounts from the drop-down boxes. Once they are done, they can get 
-the total price of their order by pressing the “Confirm” button. 
-
-Grading Criteria: 
-
-UI Component: 
-
-[2 pts] Text views showing fruits and prices 
-
-[2 pts] Spinners showing correct amounts 
-
-[2 pts] A Confirm button and a text view for showing the final price  
-
-Functionalities:  
-
-[4] The app shows the correct price for the order 
