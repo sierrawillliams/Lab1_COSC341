@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="random">Random</string>
+    <string name="_1_of_4">1 of 4</string>
+    <string name="_2_of_4">2 of 4</string>
+    <string name="_3_of_4">3 of 4</string>
+    <string name="_4_of_4">4 of 4</string>
+    <string name="prev">Prev</string>
+    <string name="next1">Next</string>
+    <string name="random1">Random</string>
+    <string name="error">error</string>
+    <string-array name="imageArray">
+        <item>imageView1</item>
+        <item>imageView2</item>
+        <item>imageView3</item>
+        <item>imageView4</item>
+    </string-array>
+    <string-array name="descArray">
+        <item>1 of 4</item>
+        <item>2 of 4</item>
+        <item>3 of 4</item>
+        <item>4 of 4</item>
+    </string-array>
+</resources>
